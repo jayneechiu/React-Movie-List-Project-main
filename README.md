@@ -1,14 +1,6 @@
 # React-Movie-List-Project
 The Movie Database App is a web application that allows users to explore and discover information about movies. This README provides an overview of the project, highlights the need to login for certain features, and provides a sample user account for testing purposes.
 
-**Overview**
-
-The Movie Database App provides various functionalities to enhance your movie browsing experience. Some of the key features include:
-- Now Playing: Browse and discover movies currently playing in theaters.
-- Popular: Explore popular movies based on user ratings and reviews.
-- Top Rated: Discover the highest-rated movies according to user ratings.
-- Upcoming: Get a glimpse of upcoming movies that will be released soon.
-
 **Login Requirements**
 
 To access certain features of the Movie Database App, such as rating and favoriting movies, you need to log in to your user account. Follow the steps below to log in:
